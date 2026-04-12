@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandra
+**`Aspiring Product Leader | Engineering @ UWaterloo`** 
+## 🗣️ About Me
+- I'm a Management Engineering student at the University of Waterloo
+- Currently interning at League as a PM, shipping health programs that help users navigate their health journeys
+- I enjoy building products end-to-end, from identifying problems to shipping solutions that create real impact
+---
+## 🛠️ Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,r,html,css&theme=light)](https://skillicons.dev)
 
-<!--
-**sandra-elias/sandra-elias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📬 Let's connect
+- LinkedIn: https://www.linkedin.com/in/sandraelias  
+- Portfolio: coming soon!  
+- Email: sm2elias@uwaterloo.ca
+- GitHub: You're already here

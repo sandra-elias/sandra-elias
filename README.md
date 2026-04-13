@@ -9,4 +9,3 @@
 ## 📬 Let's connect
 - LinkedIn: https://www.linkedin.com/in/sandraelias   
 - Email: sm2elias@uwaterloo.ca
-- GitHub: You're already here!
